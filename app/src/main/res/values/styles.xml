@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppTheme.Button.Orange" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:minWidth">@dimen/min_button_width</item>
+        <item name="android:background">@drawable/bg_orange_button</item>
+    </style>
+
+</resources>
